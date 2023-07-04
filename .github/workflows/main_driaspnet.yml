@@ -60,4 +60,4 @@ jobs:
           app-name: 'driaspnet'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E731737A0D704295B0DD716F479CE33A }}
-          package: .
+          package: . 
